@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="anu-Latitude-3480" name="Suite1.Suite1Runner" skipped="6" tests="6" time="0.611" timestamp="2021-01-01T10:31:50">
+  <properties>
+    <property name="env.DESKTOP_SESSION" value="ubuntu" />
+    <property name="env.OLDPWD" value="/home/anu" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="java.home" value="/usr/lib/jvm/java-8-openjdk-amd64/jre" />
+    <property name="env.QT_LINUX_ACCESSIBILITY_ALWAYS_ON" value="1" />
+    <property name="env.GDM_LANG" value="en_US" />
+    <property name="env.DISPLAY" value=":0" />
+    <property name="env.LS_COLORS" value="rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:" />
+    <property name="env.XDG_VTNR" value="7" />
+    <property name="ws.jars" value="/home/anu/Selenium_Learning/Selenium required utility/Userful Jars" />
+    <property name="env.XDG_GREETER_DATA_DIR" value="/var/lib/lightdm-data/anu" />
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/endorsed" />
+    <property name="env.LOGNAME" value="anu" />
+    <property name="env.HUDSON_HOME" value="/home/anu/.jenkins" />
+    <property name="env.DESKTOP_MODE" value="1" />
+    <property name="env.XDG_SEAT" value="seat0" />
+    <property name="ant.file.Junit_Project_tolearn_Ant" value="/home/anu/workspace/Frameworks/Junit_DataDrivenFramework/build.xml" />
+    <property name="env.SESSION_MANAGER" value="local/anu-Latitude-3480:@/tmp/.ICE-unix/2015,unix/anu-Latitude-3480:/tmp/.ICE-unix/2015" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="env.UNITY_HAS_3D_SUPPORT" value="true" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="env.XDG_SEAT_PATH" value="/org/freedesktop/DisplayManager/Seat0" />
+    <property name="env.MANDATORY_PATH" value="/usr/share/gconf/ubuntu.mandatory.path" />
+    <property name="env.NODE_NAME" value="master" />
+    <property name="java.version" value="1.8.0_275" />
+    <property name="test.dest" value="/home/anu/workspace/Frameworks/Junit_DataDrivenFramework/build" />
+    <property name="env.NODE_LABELS" value="master" />
+    <property name="env.JENKINS_SERVER_COOKIE" value="7a65ff7524e27984" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.LANGUAGE" value="en_IN:en" />
+    <property name="env.XDG_MENU_PREFIX" value="gnome-" />
+    <property name="ant.project.invoked-targets" value="compile,run" />
+    <property name="env.XDG_DATA_DIRS" value="/usr/share/ubuntu:/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/var/lib/snapd/desktop" />
+    <property name="env.UPSTART_SESSION" value="unix:abstract=/com/ubuntu/upstart-session/1001/1728" />
+    <property name="user.name" value="anu" />
+    <property name="env.LANG" value="en_IN" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="env.DBUS_SESSION_BUS_ADDRESS" value="unix:abstract=/tmp/dbus-GlinWwdCpc" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="user.timezone" value="" />
+    <property name="env.LESSOPEN" value="| /usr/bin/lesspipe %s" />
+    <property name="path.separator" value=":" />
+    <property name="env.XMODIFIERS" value="@im=ibus" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="ant.project.default-target" value="usage" />
+    <property name="env.HOME" value="/home/anu" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner Suite1.Suite1Runner skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/anu/workspace/Frameworks/Junit_DataDrivenFramework/Reports/TEST-Suite1.Suite1Runner.xml crashfile=/home/anu/workspace/Frameworks/Junit_DataDrivenFramework/junitvmwatcher7787961531387258285.properties propsfile=/home/anu/workspace/Frameworks/Junit_DataDrivenFramework/junit7201944184034014233.properties" />
+    <property name="env.RUN_DISPLAY_URL" value="http://localhost:8080/job/HybridFramework/3/display/redirect" />
+    <property name="ant.file" value="/home/anu/workspace/Frameworks/Junit_DataDrivenFramework/build.xml" />
+    <property name="env.BUILD_TAG" value="jenkins-HybridFramework-3" />
+    <property name="env._" value="/usr/bin/java" />
+    <property name="start.time" value="01/01/2021 04:01 PM" />
+    <property name="env.GTK2_MODULES" value="overlay-scrollbar" />
+    <property name="java.io.tmpdir" value="/tmp" />
+    <property name="TODAY" value="January 1 2021" />
+    <property name="user.language" value="en" />
+    <property name="env.UPSTART_EVENTS" value="xsession started" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="ant.file.type" value="file" />
+    <property name="env.CLUTTER_IM_MODULE" value="xim" />
+    <property name="ANT" value="${env.ANT_HOME}/bin/ant" />
+    <property name="env.JOB_NAME" value="HybridFramework" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.BUILD_DISPLAY_NAME" value="#3" />
+    <property name="sun.desktop" value="gnome" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.JOB_DISPLAY_URL" value="http://localhost:8080/job/HybridFramework/display/redirect" />
+    <property name="env.BUILD_URL" value="http://localhost:8080/job/HybridFramework/3/" />
+    <property name="env.M2_HOME" value="/usr/share/maven" />
+    <property name="env.IM_CONFIG_PHASE" value="1" />
+    <property name="env.RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/HybridFramework/3/display/redirect?page=artifacts" />
+    <property name="env.WORKSPACE_TMP" value="/home/anu/.jenkins/workspace/HybridFramework@tmp" />
+    <property name="env.GDMSESSION" value="ubuntu" />
+    <property name="env.QT_ACCESSIBILITY" value="1" />
+    <property name="env.XDG_SESSION_DESKTOP" value="ubuntu" />
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob" />
+    <property name="env.VTE_VERSION" value="4205" />
+    <property name="env.DEFAULTS_PATH" value="/usr/share/gconf/ubuntu.default.path" />
+    <property name="env.HUDSON_SERVER_COOKIE" value="7a65ff7524e27984" />
+    <property name="test.src" value="/home/anu/workspace/Frameworks/Junit_DataDrivenFramework/src" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on July 20 2018" />
+    <property name="env.XDG_SESSION_TYPE" value="x11" />
+    <property name="env.WINDOWID" value="88080394" />
+    <property name="env.COMPIZ_CONFIG_PROFILE" value="ubuntu" />
+    <property name="env.XDG_SESSION_PATH" value="/org/freedesktop/DisplayManager/Session0" />
+    <property name="env.JOB" value="unity-settings-daemon" />
+    <property name="env.BUILD_NUMBER" value="3" />
+    <property name="os.name" value="Linux" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.TERM" value="xterm-256color" />
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+    <property name="env.JOB_URL" value="http://localhost:8080/job/HybridFramework/" />
+    <property name="env.QT_IM_MODULE" value="ibus" />
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib" />
+    <property name="env.PATH" value="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/share/maven:/home/anu/Selenium Drivers:/snap/bin:/usr/share/maven/bin" />
+    <property name="env.HUDSON_URL" value="http://localhost:8080/" />
+    <property name="env.LESSCLOSE" value="/usr/bin/lesspipe %s %s" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="env.JENKINS_URL" value="http://localhost:8080/" />
+    <property name="basedir" value="/home/anu/workspace/Frameworks/Junit_DataDrivenFramework" />
+    <property name="java.class.version" value="52.0" />
+    <property name="env.SHLVL" value="1" />
+    <property name="ant.home" value="/usr/share/ant" />
+    <property name="env.JENKINS_HOME" value="/home/anu/.jenkins" />
+    <property name="env.UPSTART_JOB" value="unity7" />
+    <property name="test.reportsDir" value="/home/anu/workspace/Frameworks/Junit_DataDrivenFramework/Reports" />
+    <property name="env.RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/HybridFramework/3/display/redirect?page=changes" />
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment" />
+    <property name="env.USER" value="anu" />
+    <property name="env.GTK_IM_MODULE" value="ibus" />
+    <property name="env.GTK_MODULES" value="gail:atk-bridge:unity-gtk-module" />
+    <property name="env.UNITY_DEFAULT_PROFILE" value="unity" />
+    <property name="ant.project.name" value="Junit_Project_tolearn_Ant" />
+    <property name="env.SESSIONTYPE" value="gnome-session" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="env.COMPIZ_BIN_PATH" value="/usr/bin/" />
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext" />
+    <property name="os.version" value="4.4.0-197-generic" />
+    <property name="env.QT_QPA_PLATFORMTHEME" value="appmenu-qt5" />
+    <property name="user.home" value="/home/anu" />
+    <property name="env.XDG_CURRENT_DESKTOP" value="Unity" />
+    <property name="java.vm.vendor" value="Private Build" />
+    <property name="env.SESSION" value="ubuntu" />
+    <property name="env.XDG_SESSION_ID" value="c6" />
+    <property name="env.XAUTHORITY" value="/home/anu/.Xauthority" />
+    <property name="user.dir" value="/home/anu/workspace/Frameworks/Junit_DataDrivenFramework" />
+    <property name="env.PWD" value="/home/anu/workspace/Frameworks/Junit_DataDrivenFramework" />
+    <property name="test.classpath" value="/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/SaxonLiaison.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/antlr-2.7.4.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/assertj-core-3.10.0.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/bsf-2.3.0.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/bsh-2.0b6.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/c3p0-0.8.5.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/cglib-full-2.0.2.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-beanutils-1.7.0.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-chain-1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-collections-2.1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-digester-1.8.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-fileupload-1.1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-io-1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-logging-1.0.4.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-validator-1.3.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/cucumber-core-3.0.2.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/cucumber-expressions-5.0.19.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/cucumber-html-0.2.7.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/cucumber-java-3.0.2.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/cucumber-junit-3.0.2.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/cucumber-testng-3.0.2.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/datatable-1.0.3.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/datatable-dependencies-1.0.3.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/dom4j-1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/dom4j-1.5.2.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/ehcache-1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/extentreports-2.40.2.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/freemarker-2.3.23.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/gherkin-5.0.0.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/hamcrest-core-1.3.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/hibernate3.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/jcommander-1.72.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/json-simple-1.1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/jsoup-1.8.3.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/jta.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/junit-4.12.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/junit.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/leadapp.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/log4j-1.2.9.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/mysql-connector-java-3.1.6-bin.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/org.hamcrest.core_1.3.0.v201303031735.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/oro-2.0.8.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/poi-3.6-20091214.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/poi-ooxml-3.6-20091214.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/poi-ooxml-schemas-3.6-20091214.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/saxon-8.7.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/selenium-server-standalone-2.44.0.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/selenium-server-standalone-2.52.0.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/servlet-api.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/sqlite-jdbc-3.8.11.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/struts-core-1.3.8.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/struts-extras-1.3.8.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/struts-scripting-1.3.8.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/struts-taglib-1.3.8.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/struts-tiles-1.3.8.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/tag-expressions-1.1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/testng-6.14.3.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/testng-6.8.5.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/xml-apis.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/xmlbeans-2.3.0.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/yamlbeans-1.14.jar" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="env.RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/HybridFramework/3/display/redirect?page=tests" />
+    <property name="java.vm.version" value="25.275-b01" />
+    <property name="java.class.path" value="/home/anu/workspace/Frameworks/Junit_DataDrivenFramework/build:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/SaxonLiaison.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/antlr-2.7.4.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/assertj-core-3.10.0.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/bsf-2.3.0.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/bsh-2.0b6.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/c3p0-0.8.5.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/cglib-full-2.0.2.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-beanutils-1.7.0.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-chain-1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-collections-2.1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-digester-1.8.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-fileupload-1.1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-io-1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-logging-1.0.4.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/commons-validator-1.3.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/cucumber-core-3.0.2.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/cucumber-expressions-5.0.19.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/cucumber-html-0.2.7.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/cucumber-java-3.0.2.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/cucumber-junit-3.0.2.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/cucumber-testng-3.0.2.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/datatable-1.0.3.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/datatable-dependencies-1.0.3.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/dom4j-1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/dom4j-1.5.2.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/ehcache-1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/extentreports-2.40.2.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/freemarker-2.3.23.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/gherkin-5.0.0.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/hamcrest-core-1.3.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/hibernate3.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/jcommander-1.72.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/json-simple-1.1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/jsoup-1.8.3.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/jta.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/junit-4.12.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/junit.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/leadapp.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/log4j-1.2.9.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/mysql-connector-java-3.1.6-bin.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/org.hamcrest.core_1.3.0.v201303031735.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/oro-2.0.8.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/poi-3.6-20091214.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/poi-ooxml-3.6-20091214.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/poi-ooxml-schemas-3.6-20091214.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/saxon-8.7.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/selenium-server-standalone-2.44.0.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/selenium-server-standalone-2.52.0.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/servlet-api.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/sqlite-jdbc-3.8.11.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/struts-core-1.3.8.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/struts-extras-1.3.8.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/struts-scripting-1.3.8.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/struts-taglib-1.3.8.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/struts-tiles-1.3.8.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/tag-expressions-1.1.1.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/testng-6.14.3.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/testng-6.8.5.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/xml-apis.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/xmlbeans-2.3.0.jar:/home/anu/Selenium_Learning/Selenium required utility/Userful Jars/yamlbeans-1.14.jar:/usr/share/ant/lib/junit.jar:/usr/share/java/ant-launcher-1.9.6.jar:/usr/share/ant/lib/ant.jar:/usr/share/ant/lib/ant-junit.jar:/usr/share/ant/lib/ant-junit4.jar" />
+    <property name="DSTAMP" value="20210101" />
+    <property name="ant.library.dir" value="/usr/share/ant/lib" />
+    <property name="os.arch" value="amd64" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="env.BUILD_ID" value="3" />
+    <property name="ant.file.type.Junit_Project_tolearn_Ant" value="file" />
+    <property name="ant.core.lib" value="/usr/share/ant/lib/ant.jar" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="TSTAMP" value="1601" />
+    <property name="file.separator" value="/" />
+    <property name="java.runtime.version" value="1.8.0_275-8u275-b01-0ubuntu1~16.04-b01" />
+    <property name="env.SSH_AUTH_SOCK" value="/run/user/1001/keyring/ssh" />
+    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes" />
+    <property name="env.QT4_IM_MODULE" value="xim" />
+    <property name="env.XDG_RUNTIME_DIR" value="/run/user/1001" />
+    <property name="env.XDG_CONFIG_DIRS" value="/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg" />
+    <property name="env.WORKSPACE" value="/home/anu/.jenkins/workspace/HybridFramework" />
+    <property name="ws.home" value="/home/anu/workspace/Frameworks/Junit_DataDrivenFramework" />
+    <property name="user.country" value="IN" />
+    <property name="env.EXECUTOR_NUMBER" value="1" />
+    <property name="env.SHELL" value="/bin/bash" />
+    <property name="env.JOB_BASE_NAME" value="HybridFramework" />
+    <property name="java.vendor" value="Private Build" />
+    <property name="env.GPG_AGENT_INFO" value="/home/anu/.gnupg/S.gpg-agent:0:1" />
+    <property name="env.HUDSON_COOKIE" value="ae7ea200-c487-4cde-be56-a930979a4a9e" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="env.GNOME_DESKTOP_SESSION_ID" value="this-is-deprecated" />
+  </properties>
+  <testcase classname="Suite1.LoginRediff" name="login_rediff[0]" time="0.112">
+    <skipped message="got: &lt;false&gt;, expected: is &lt;true&gt;" />
+  </testcase>
+  <testcase classname="Suite1.LoginRediff" name="login_rediff[1]" time="0.075">
+    <skipped message="got: &lt;false&gt;, expected: is &lt;true&gt;" />
+  </testcase>
+  <testcase classname="Suite1.SearchShopping" name="search" time="0.086">
+    <skipped message="got: &lt;false&gt;, expected: is &lt;true&gt;" />
+  </testcase>
+  <testcase classname="Suite1.TestsearchLinks" name="linksTest" time="0.061">
+    <skipped message="got: &lt;false&gt;, expected: is &lt;true&gt;" />
+  </testcase>
+  <testcase classname="Suite1.OpenMyPortFolio" name="open[0]" time="0.064">
+    <skipped message="got: &lt;false&gt;, expected: is &lt;true&gt;" />
+  </testcase>
+  <testcase classname="Suite1.LogoutRediff" name="logout" time="0.054">
+    <skipped message="got: &lt;false&gt;, expected: is &lt;true&gt;" />
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
